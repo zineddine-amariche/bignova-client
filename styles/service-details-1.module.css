@@ -1,0 +1,17 @@
+.error {
+    /* Your styles for the Acceuil link */
+    color: #F00;
+    font-size: 12px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+  }
+  .rowContainer {
+    /* Your styles for the Acceuil link */
+   display:flex;
+
+  }
+  .gap {
+    /* background-color: aliceblue; */
+  }
+
